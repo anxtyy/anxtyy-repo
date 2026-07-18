@@ -1,1 +1,7 @@
+Package: com.anxtyy.anitime
+Name: AniTime
+Version: 1.0.2k
+Architecture: iphoneos-arm64
+Description: AniTime - твик, который добавляет анимированных персонажей на заблокированный экран.
+Filename: xyz.cypwn.anitime_1.0.1k_iphoneos-arm64.deb
 
