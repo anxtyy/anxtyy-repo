@@ -5,3 +5,9 @@ Architecture: iphoneos-arm64
 Description: AniTime - твик, который добавляет анимированных персонажей на заблокированный экран.
 Filename: xyz.cypwn.anitime_1.0.1k_iphoneos-arm64.deb
 
+Package: com.anxtyy.snowboard
+Name: SnowBoard
+Version: 1.4.2_Beta4
+Architecture: iphoneos-arm64
+Description: SnowBoard - твик, который позволяет кастомизировать значки приложений и добавлять к ним темы.
+Filename: com.spark.snowboard_1.4.2_Beta4.deb
